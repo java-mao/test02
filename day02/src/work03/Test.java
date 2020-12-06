@@ -9,5 +9,6 @@ public class Test {
         j.setJingJin(10);
         j.setName("经理");
         j.model();
+        System.out.println(",,,,,,,,");
     }
 }
